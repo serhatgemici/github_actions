@@ -1,5 +1,6 @@
-from wallet import Wallet, InsufficientAmount
 import pytest
+
+from wallet import Wallet, InsufficientAmount
 
 # a newly created wallet has a balance of 0 by default.
 def test_default_initial_amount(empty_wallet):
