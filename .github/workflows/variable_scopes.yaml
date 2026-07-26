@@ -1,4 +1,4 @@
-name: Greeting on a variable day
+name: Workflow Variable Scopes
 
 on: workflow_dispatch
 
