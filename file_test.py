@@ -18,5 +18,5 @@ def test_calc_multiply():
 
 def test_coucou():
     # Function to test if the output returns 'hello'
-    output = 'hello'
-    assert output == 'hello'
+    output = "hello"
+    assert output == "hello"
